@@ -30,7 +30,7 @@ function App() {
               <div className="card_info">
                   <span className="card_category">{val.title}</span>
                   <h3 className="card_title">{val.sname}</h3>
-                      <a href={val.link} target="blank">
+                      <a href={val.links} target="blank">
                       <button> Watch Now </button>
                       </a>
               </div>
