@@ -1,0 +1,168 @@
+{
+    "posts": [
+    {
+        "id":1,
+        "imgSrc": "https://6.viki.io/image/7399b48845fd44f58ac429c1c061ca69.jpeg?s=900x600&e=t",
+        "title": " Netflix Original Series",
+        "sname": " Tale of the Nine Tailed ",
+        "links": " https://www.netflix.com/in/title/81357286?source=35"
+    },
+    {
+        "id":2,
+        "imgSrc": " https://wallpapercave.com/wp/wp6291597.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Money Heist",
+        "links": " https://www.netflix.com/in/title/80192098#:~:text=Eight%20thieves%20take%20hostages%20and,to%20carry%20out%20his%20plan."
+    },
+    {
+        "id":3,
+        "imgSrc": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvIJCAkdYSnDarNGI7bblCBDuHV1IYGdriQ&usqp=CAU",
+        "title": " Netflix Original Series",
+        "sname": " The Witcher ",
+        "links": " https://www.netflix.com/in/title/80189685"
+    },
+    {
+        "id":4,
+        "imgSrc": "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABepFp8a2Icrx3yZLPW5CNYAQRsFrxMH15MRZHLAMigQFL6MU9HIeUL1NffLGwFNEgf8PHS6i-4AchDQGUyDBI0aAN4mrlV6N_V6fqY9AOyPjuqYId_ftaVlJp7orKQ.jpg?r=b23",
+        "title": "Netflix Original Series ",
+        "sname": " Peaky Blinders",
+        "links": " https://www.netflix.com/in/title/80002479 "
+
+    },
+    {
+        "id":5,
+        "imgSrc": "https://wallpapercave.com/wp/wp1811404.jpg",
+        "title": "Netflix Original Series ",
+        "sname": " Narcos",
+        "links": " https://www.netflix.com/in/title/80025172"
+
+    },
+    {
+        "id":6,
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQoudtLzL2d2wAiVrRvA4yo_n8O3mzDfu7ZfuFk_Jlctaty_1ZyOTWNa4aiQwwHm3D5Mo&usqp=CAU",
+        "title": " Netflix Original Series",
+        "sname": " Mindhunter ",
+        "links": " https://www.netflix.com/in/title/80114855"
+
+    },
+    {
+        "id":7,
+        "imgSrc": "https://wallpapercave.com/wp/wp4056410.jpg",
+        "title": "Netflix Original Series",
+        "sname": "DARK",
+        "links": " https://www.netflix.com/in/title/80100172"
+
+    },
+    {
+        "id":8,
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BNjk3NDk3MDEtMTU2OS00NTFiLWJkOWMtYTA2YjJlMTMyYTk1XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_.jpg",
+       " title": "Netflix Original Series",
+        "sname": "The True Beauty",
+        "links": " https://www.imdb.com/title/tt13274038/"
+
+    },
+    {
+        "id":9,
+        "imgSrc": "https://ahjummamshies.files.wordpress.com/2021/06/law-school.jpeg",
+        "title": " Netflix Original Series",
+        "sname": " Law School ",
+        "links": " https://www.netflix.com/in/title/81413647?source=35"
+
+    },
+    {
+        "id":10,
+        "imgSrc": "https://6.vikiplatform.com/image/d802c0196f8f49bf831e5dcaa2d6b569.jpg?x=b&a=0x0",
+        "title": " Netflix Original Series",
+        "sname": " My ID is gangnam beauty ",
+        "links": " https://www.viki.com/tv/36424c-my-id-is-gangnam-beauty"
+
+    },
+    {
+        "id":11,
+        "imgSrc": "https://wallpapercave.com/wp/wp3541595.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Meteor Garden ",
+        "links": " https://mydramalist.com/23184-meteor-garden"
+
+    },
+    {
+        "id":12,
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/7/73/Fifty_Shades_of_Grey_poster.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Fifty Shades of grey ",
+        "links": " https://www.amazon.com/Fifty-Shades-Grey-Dakota-Johnson/dp/B00TJYYKD6"
+
+    },
+    {
+        "id":13,
+        "imgSrc": "https://i.mydramalist.com/vAnBe_4c.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Vincenzo ",
+        "links": "https://www.netflix.com/in/title/81365087?source=35"
+    },
+    {
+        "id":14,
+        "imgSrc": "http://puui.qpic.cn/vcover_hz_pic/0/4cpllzcg2i3hn1a1562820352/0",
+        "title": " Netflix Original Series",
+        "sname": " Put Your Head On My Shoulder ",
+        "links": " https://www.netflix.com/in/title/81200229"
+
+    },
+    {
+        "id":15,
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BNTBlOGMwNTUtNWZmMy00NjQ0LTkwYjYtMzBhZDRlZDcwZWI3XkEyXkFqcGdeQXVyMTE2MDU0NzAw._V1_.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Unforgotten Love ",
+        "links": " https://mydramalist.com/66371-unforgettable-love"
+
+    },
+    {
+        "id":16,
+        "imgSrc": "https://odetodramas.com/wp-content/uploads/2019/11/my-girlfriend-is-an-alien-1024x683.jpg",
+        "title": " Netflix Original Series",
+        "sname": " My Girlfriend is an Alien ",
+        "links": " https://www.mxplayer.in/show/watch-my-girlfriend-is-an-alien-hindi-dubbed/season-1/episode-1-online-9d2013d31d5835bb8400e3b3c5e7bb72?utm_source=paid-ext-con-perf-google_sem-web&utm_medium=web&utm_campaign=sem-web-270921-traffic-nbr-web_series-Mix-INT_Shows-Hindi_Dubbed-ext_paid-na-na-pan-na-na-groupm-exact_sng&utm_cid=128088997616&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3dXu8coe64ATTyrjEJ1AIPNGD0D3vc5bGqJqEVNBg8mFKb8ZESOBKwaAsMfEALw_wcB"
+
+    },
+    {
+        "id":17,
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/My_Name_TV_series.jpg/250px-My_Name_TV_series.jpg",
+        "title": " Netflix Original Series",
+        "sname": " My Name ",
+        "links": " https://www.netflix.com/in/title/81011211?source=35"
+
+    },
+    {
+        "id":18,
+        "imgSrc": "https://flxt.tmsimg.com/assets/p20492218_b_h9_aa.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Squid Game ",
+        "links": " https://www.netflix.com/in/title/81040344?source=35"
+
+    },
+    {
+        "id":19,
+        "imgSrc": "http://i.mdldb.net/cache/lmh/581635230461087482_040706de_c2x.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Boys Over Flowers ",
+        "links": " https://www.netflix.com/in/title/70213130?source=35"
+
+    },
+    {
+        "id":20,
+        "imgSrc": "https://1.bp.blogspot.com/-_pZQBXQQi_0/YIKZzAdanpI/AAAAAAAATPA/cQlXwPLpPXY1hqxDQt26qg5WqXCg0doLQCLcBGAsYHQ/s0/CC%2Bblog%2BStranger%2BS1%2Btitle%2Bgraphics%2B450%2Bby%2B410%2Bpx.jpg",
+        "title": " Netflix Original Series",
+        "sname": " Stranger ",
+        "links": " https://www.netflix.com/in/title/80187302?source=35"
+
+    },
+    {
+        "id":21,
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BNjA5MjA2OTctODgzZi00ODE3LWE1OGItMjdhNmRhY2MyMWYwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "title": " Netflix Original Series",
+        "sname": " My Mister ",
+        "links": " https://www.netflix.com/in/title/81267691?source=35"
+
+    }
+]
+}
