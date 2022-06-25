@@ -9,7 +9,7 @@ function App() {
   const [posts, setPosts] = useState([]);
   const [page, setPage] = useState(1);
   const loadPosts = async () => {
-    const res = await axios.get(`http://localhost:3001/posts?_page=${page}&_limit=9`);
+    const res = await axios.get(`https://nooneknows199.github.io/react-movie-api/db.json?_page=${page}&_limit=9`);
     setPosts(res.data);
   };
   useEffect(() => {
