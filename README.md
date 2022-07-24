@@ -5,7 +5,7 @@
 ![React App - Google Chrome 11_11_2021 3_36_26 PM](https://user-images.githubusercontent.com/69891196/175774156-7ec543b1-26e7-440d-bf50-0387e14898a2.png)
 
 
-
+Use this fake rest api : https://my-json-server.typicode.com/nooneknows199/react-movie-api/posts
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
